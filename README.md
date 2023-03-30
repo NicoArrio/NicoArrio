@@ -1,16 +1,38 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="200" />
+    <h1 align="center">I'm Nicolas Arriola</h1>
+        </h3 align="center"> 
+            Hi👋, I'm a student of the Bachelor of Computer Science, I'm also doing separate courses. 💭
+        </h3>
+</div>
 
-<!--
-**NicoArrio/NicoArrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### About me :
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on two courses in Data Science and Basic Web Programming
+- 🌱 I’m currently learning Java, SQL, HTML5, CSS3 and JavaScript
+- 🤔 I’m looking for help with Java OOP
+- 💬 Ask me about python
+- 📫 How to reach me: nicoalearriola@gmail.com
+- 🌎 Linkedin: [profile](https://www.linkedin.com/in/nicolas-arriola-923369156/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="left">
+    <h3> 🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+    </div>
+</div>   
+
+---
+### 📈 My Stats:
+
+![nicoarrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoArrio&theme=radical&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoArrio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
