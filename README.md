@@ -9,10 +9,10 @@
 ---
 ### About me :
 
-- 🔭 I’m currently working on two courses in Data Science and Basic Web Programming
-- 🌱 I’m currently learning Java, SQL, HTML5, CSS3 and JavaScript
-- 🤔 I’m looking for help with Java OOP
-- 💬 Ask me about python
+- 🔭 I’m currently working on 4 mini-projects and 1 large-scale project.
+- 🌱 I’m currently learning React Native, NodeJS, express, MongoDB
+- 🤔 I’m looking for help with React Native
+- 💬 Ask me about MongoDB
 - 📫 How to reach me: nicoalearriola@gmail.com
 - 🌎 Linkedin: [profile](https://www.linkedin.com/in/nicolas-arriola-923369156/)
 
