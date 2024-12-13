@@ -9,7 +9,7 @@
 ---
 ### About me :
 
-- 🔭 I’m currently working on 4 mini-projects and 1 large-scale project.
+- 🔭 I’m currently working on "eVent" a mobile app.
 - 🌱 I’m currently learning React Native, NodeJS, express, MongoDB
 - 🤔 I’m looking for help with React Native
 - 💬 Ask me about MongoDB
